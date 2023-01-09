@@ -1,11 +1,14 @@
-<h1>Sonia Chaparro</h1>
+# Sonia Chaparro
 
 - 👋 Hi, I’m @soniaS4nt
 - 👀 I’m interested in web programming
 - 🌱 I’m currently learning serverless aws
 - 💞️ I’m looking to collaborate on new projects ...
 - 📫 How to reach me... 
-  <p><a href='https://www.linkedin.com/in/sonia-chaparro-santis/'>Linkedin </a></p>
+- [Linkedin](https://www.linkedin.com/in/sonia-chaparro-santis/)
+
+## Check out my portfolio
+- 👀 [Click here !](https://portfolio-sonias4nt.vercel.app/#/)
 
 
 
