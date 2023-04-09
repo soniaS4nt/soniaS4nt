@@ -8,7 +8,7 @@
 - [Linkedin](https://www.linkedin.com/in/sonia-chaparro-santis/)
 
 ## Check out my portfolio
-- 👀 [Click here !](https://portfolio-sonias4nt.vercel.app/#/)
+- 👀 [Click here !](https://sonia-chaparro.com)
 
 
 
